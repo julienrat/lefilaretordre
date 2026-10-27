@@ -3,7 +3,7 @@
     <title>Le Fil à Retordre</title>
     <link href="https://julienrat.github.io/lefilaretordre/feed.xml" rel="self" />
     <link href="https://julienrat.github.io/lefilaretordre" />
-    <updated>2026-10-28T00:05:30+01:00</updated>
+    <updated>2026-10-28T00:08:49+01:00</updated>
     <author>
         <name>Julien RAT</name>
     </author>
@@ -28,7 +28,7 @@
                 <figure class="post__image post__image--left"><img loading="lazy"  src="https://julienrat.github.io/lefilaretordre/media/posts/3/PXL_20260320_132410784_preview.jpeg" alt="" width="300" height="169" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://julienrat.github.io/lefilaretordre/media/posts/3/responsive/PXL_20260320_132410784_preview-xs.jpeg 640w ,https://julienrat.github.io/lefilaretordre/media/posts/3/responsive/PXL_20260320_132410784_preview-sm.jpeg 768w ,https://julienrat.github.io/lefilaretordre/media/posts/3/responsive/PXL_20260320_132410784_preview-md.jpeg 1024w ,https://julienrat.github.io/lefilaretordre/media/posts/3/responsive/PXL_20260320_132410784_preview-lg.jpeg 1366w ,https://julienrat.github.io/lefilaretordre/media/posts/3/responsive/PXL_20260320_132410784_preview-xl.jpeg 1600w ,https://julienrat.github.io/lefilaretordre/media/posts/3/responsive/PXL_20260320_132410784_preview-2xl.jpeg 1920w"></figure>
 <p data-path-to-node="3">Dans le cadre de ma collaboration avec <strong data-path-to-node="3" data-index-in-node="39">Compost and co</strong>, acteur engagé dans la valorisation des biodéchets situé au nord de Poitiers, j'ai conçu et déployé un système de surveillance des températures sur-mesure.</p>
 <p data-path-to-node="4">Ce dispositif technique associe des solutions matérielles robustes à des adaptations électroniques développées par mes soins pour répondre aux exigences spécifiques du suivi de compostage en extérieur.</p>
-<h2 data-path-to-node="6">🛠️ Architecture Technique du Dispositif</h2>
+<h4 data-path-to-node="6">Architecture Technique du Dispositif</h4>
 <p data-path-to-node="7">Mon système repose sur une chaîne d'acquisition et de transmission de données entièrement optimisée pour fonctionner de manière autonome et fiable en milieu industriel ou agricole :</p>
 <ul data-path-to-node="8">
 <li>
@@ -47,7 +47,7 @@
 <p data-path-to-node="8,4,0"><strong data-path-to-node="8,4,0" data-index-in-node="0">Remontée de données en MQTT :</strong> Le protocole léger <strong data-path-to-node="8,4,0" data-index-in-node="49">MQTT</strong> est utilisé pour acheminer en temps réel les flux de données vers ma plateforme de supervision.</p>
 </li>
 </ul>
-<h2 data-path-to-node="10">📊 Visualisation et Enregistrement en Direct</h2>
+<h4 data-path-to-node="10">Visualisation et Enregistrement en Direct</h4>
 <p data-path-to-node="11">Grâce à cette infrastructure, mon client <strong data-path-to-node="11" data-index-in-node="41">Compost and co</strong> bénéficie d'un double avantage opérationnel :</p>
 <ol start="1" data-path-to-node="12">
 <li>
