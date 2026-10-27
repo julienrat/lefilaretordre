@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Le Fil à Retordre",
+    "description": "",
+    "home_page_url": "https://julienrat.github.io/lefilaretordre",
+    "feed_url": "https://julienrat.github.io/lefilaretordre/feed.json",
+    "user_comment": "",
+    "icon": "https://julienrat.github.io/lefilaretordre/media/website/Gemini_Generated_Image_todgzbtodgzbtodg.jpeg",
+    "author": {
+        "name": "Julien RAT"
+    },
+    "items": [
+    ]
+}
