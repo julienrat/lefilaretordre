@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://julienrat.github.io/sitemap.xml
