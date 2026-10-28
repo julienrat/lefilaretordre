@@ -3,7 +3,7 @@
     <title>Le Fil à Retordre</title>
     <link href="https://julienrat.github.io/lefilaretordre/feed.xml" rel="self" />
     <link href="https://julienrat.github.io/lefilaretordre" />
-    <updated>2026-10-28T01:13:17+01:00</updated>
+    <updated>2026-10-28T01:17:30+01:00</updated>
     <author>
         <name>Julien RAT</name>
     </author>
@@ -22,7 +22,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260821_090522345.jpg" alt="" />
-                    Suite à une demande d'un client, j'ai conçu et déployé un système domotique sur-mesure pour automatiser la gestion et la protection de ses abris de piscine. Ce dispositif technique associe des solutions matérielles robustes à des adaptations électroniques développées par mes soins pour répondre aux&hellip;
+                    Suite à une demande d'un client qui souhaitait ranger ses abris de piscine sous une terrasse, j'ai conçu et déployé un système domotique sur-mesure pour automatiser la gestion et la protection de ses abris de piscine. Ce dispositif technique associe des solutions matérielles robustes à&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -30,8 +30,9 @@
                     <p><img src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260821_090522345.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="container">
 <div id="model-response-message-contentr_efbd90b1325b8460" class="markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color" dir="ltr" aria-busy="false" aria-live="polite">
-<figure class="post__image post__image--left"><img loading="lazy"  src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260718_105013225.MP.jpg" alt="" width="4032" height="2268" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xs.jpg 640w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-sm.jpg 768w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-md.jpg 1024w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-lg.jpg 1366w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xl.jpg 1600w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-2xl.jpg 1920w"></figure>Suite à une demande d'un client, j'ai conçu et déployé un système domotique sur-mesure pour automatiser la gestion et la protection de ses abris de piscine.</p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260718_105013225.MP.jpg" alt="" width="4032" height="2268" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xs.jpg 640w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-sm.jpg 768w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-md.jpg 1024w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-lg.jpg 1366w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xl.jpg 1600w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-2xl.jpg 1920w"></figure>Suite à une demande d'un client qui souhaitait ranger ses abris de piscine sous une terrasse, j'ai conçu et déployé un système domotique sur-mesure pour automatiser la gestion et la protection de ses abris de piscine.</p>
 <p data-path-to-node="3">Ce dispositif technique associe des solutions matérielles robustes à des adaptations électroniques développées par mes soins pour répondre aux exigences spécifiques d'un pilotage en extérieur.</p>
+<h3 data-path-to-node="4"><figure class="post__image post__image--center"><img loading="lazy"  src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260629_075053554.jpg" alt="" width="364" height="205" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-xs.jpg 640w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-sm.jpg 768w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-md.jpg 1024w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-lg.jpg 1366w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-xl.jpg 1600w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-2xl.jpg 1920w"></figure></h3>
 <h3 data-path-to-node="4">Architecture Technique du Dispositif</h3>
 <p data-path-to-node="5">Mon système repose sur une chaîne de commande et de sécurité entièrement optimisée pour fonctionner de manière autonome et fiable :</p>
 <ul data-path-to-node="6">
@@ -39,7 +40,7 @@
 <p data-path-to-node="6,0,0"><strong data-path-to-node="6,0,0" data-index-in-node="0">Infrastructure électrique et câblage :</strong> Tirage de ligne dédié depuis le tableau électrique et câblage soigné pour intégrer le système au plus près des installations.</p>
 </li>
 <li>
-<p data-path-to-node="6,1,0"><strong data-path-to-node="6,1,0" data-index-in-node="0">Motorisation industrielle :</strong> Utilisation d'un moteur triphasé piloté par un microcontrôleur <strong data-path-to-node="6,1,0" data-index-in-node="91">Arduino</strong>, garantissant la puissance, la fiabilité et le contrôle précis des mouvements pour la descente et la manipulation des plaques de l'abri.</p>
+<p data-path-to-node="6,1,0"><strong data-path-to-node="6,1,0" data-index-in-node="0">Motorisation industrielle :</strong> Utilisation d'un moteur triphasé piloté par un microcontrôleur <strong data-path-to-node="6,1,0" data-index-in-node="91">Arduino </strong>couplé a des drivers moteurs garantissant la puissance, la fiabilité et le contrôle précis des mouvements pour la descente et la manipulation des plaques de l'abri.</p>
 </li>
 <li>
 <p data-path-to-node="6,2,0"><strong data-path-to-node="6,2,0" data-index-in-node="0">Précision et sécurité (Capteurs) :</strong> Le système intègre des <strong data-path-to-node="6,2,0" data-index-in-node="58">capteurs inductifs</strong> placés stratégiquement pour assurer le suivi en temps réel de la position des 3 abris, ainsi qu'une <strong data-path-to-node="6,2,0" data-index-in-node="177">barrière optique</strong> pour garantir une sécurité maximale.</p>
@@ -59,7 +60,7 @@
         <id>https://julienrat.github.io/lefilaretordre/sondes-de-mesure-de-compost-meshcore/</id>
         <media:content url="https://julienrat.github.io/lefilaretordre/media/posts/3/PXL_20260504_124210208_preview.jpeg" medium="image" />
 
-        <updated>2026-10-28T00:05:30+01:00</updated>
+        <updated>2026-07-28T00:05:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://julienrat.github.io/lefilaretordre/media/posts/3/PXL_20260504_124210208_preview.jpeg" alt="" />
