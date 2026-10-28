@@ -3,7 +3,7 @@
     <title>Le Fil à Retordre</title>
     <link href="https://julienrat.github.io/lefilaretordre/feed.xml" rel="self" />
     <link href="https://julienrat.github.io/lefilaretordre" />
-    <updated>2026-10-28T08:36:02+01:00</updated>
+    <updated>2026-10-28T09:00:38+01:00</updated>
     <author>
         <name>Julien RAT</name>
     </author>
@@ -22,7 +22,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260821_090522345.jpg" alt="" />
-                    Suite à une demande d'un client qui souhaitait ranger ses abris de piscine sous une terrasse, j'ai conçu et déployé un système domotique sur-mesure pour automatiser la gestion et la protection de ses abris de piscine. Ce dispositif technique associe des solutions matérielles robustes à&hellip;
+                    Pour répondre à une problématique d'aménagement extérieur — stocker des abris de piscine sous une terrasse — j'ai imaginé et mis en place un système domotique entièrement personnalisé. Alliant robustesse matérielle et développements électroniques sur-mesure, ce dispositif assure une gestion automatisée et sécurisée adaptée aux&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -30,8 +30,7 @@
                     <p><img src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260821_090522345.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="container">
 <div id="model-response-message-contentr_efbd90b1325b8460" class="markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color" dir="ltr" aria-busy="false" aria-live="polite">
-<figure class="post__image post__image--left"><img loading="lazy"  src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260718_105013225.MP.jpg" alt="" width="4032" height="2268" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xs.jpg 640w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-sm.jpg 768w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-md.jpg 1024w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-lg.jpg 1366w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xl.jpg 1600w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-2xl.jpg 1920w"></figure>Suite à une demande d'un client qui souhaitait ranger ses abris de piscine sous une terrasse, j'ai conçu et déployé un système domotique sur-mesure pour automatiser la gestion et la protection de ses abris de piscine.</p>
-<p data-path-to-node="3">Ce dispositif technique associe des solutions matérielles robustes à des adaptations électroniques développées par mes soins pour répondre aux exigences spécifiques d'un pilotage en extérieur.</p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260718_105013225.MP.jpg" alt="" width="4032" height="2268" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xs.jpg 640w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-sm.jpg 768w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-md.jpg 1024w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-lg.jpg 1366w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-xl.jpg 1600w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260718_105013225.MP-2xl.jpg 1920w"></figure>Pour répondre à une problématique d'aménagement extérieur — stocker des abris de piscine sous une terrasse — j'ai imaginé et mis en place un système domotique entièrement personnalisé. Alliant robustesse matérielle et développements électroniques sur-mesure, ce dispositif assure une gestion automatisée et sécurisée adaptée aux contraintes uniques d'un environnement extérieur.</p>
 <h3 data-path-to-node="4"><figure class="post__image post__image--center"><img loading="lazy"  src="https://julienrat.github.io/lefilaretordre/media/posts/5/PXL_20260629_075053554.jpg" alt="" width="364" height="205" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-xs.jpg 640w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-sm.jpg 768w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-md.jpg 1024w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-lg.jpg 1366w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-xl.jpg 1600w ,https://julienrat.github.io/lefilaretordre/media/posts/5/responsive/PXL_20260629_075053554-2xl.jpg 1920w"></figure></h3>
 <h3 data-path-to-node="4">Architecture Technique du Dispositif</h3>
 <p data-path-to-node="5">Mon système repose sur une chaîne de commande et de sécurité entièrement optimisée pour fonctionner de manière autonome et fiable :</p>
